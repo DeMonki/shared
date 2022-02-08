@@ -1,9 +1,10 @@
 import React from "react";
+import freddy from '../images/FreddyTheFrog.jpg'
 
 const Home = () => {
     return (
         <div>
-            API callout with axios to Meal db
+            <img src={freddy} alt="frog" width={75} />
         </div>
     )
 }

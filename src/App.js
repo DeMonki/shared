@@ -1,11 +1,11 @@
 import './App.css';
-import Home from './Home';
-import Meals from './Meals';
+import Home from './components/Home';
+import Meals from './components/Meals';
 
 function App() {
   return (
     <div className="App">
-      this is your app
+      this is your (cr)app
       <Home />
       <Meals />
     </div>
