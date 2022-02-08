@@ -3,7 +3,7 @@ import React from "react";
 const Home = () => {
     return (
         <div>
-            this is a HOme page
+            API callout with axios to Meal db
         </div>
     )
 }
