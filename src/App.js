@@ -5,7 +5,7 @@ import Meals from './Meals';
 function App() {
   return (
     <div className="App">
-      this is your app
+      this is your app on meals
       <Home />
       <Meals />
     </div>
