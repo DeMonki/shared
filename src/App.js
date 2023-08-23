@@ -7,10 +7,7 @@ function App() {
   return (
     <div className="App">
       <Elements />
-      this is the main branch
-      this is not an app
-      this is not an app
-      this git-check branch.
+      new feature.
       this git-check branch.
       <Home />
       <Meals />
