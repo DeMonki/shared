@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <Elements />
       this is the main branch
+      this is not an app
       <Home />
       <Meals />
     </div>
