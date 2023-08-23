@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Elements />
-      this is your app again
+this is how to make a problem
       <Home />
       <Meals />
     </div>
