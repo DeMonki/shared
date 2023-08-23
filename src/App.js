@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <Name />
+      <Name />
       <Elements />
       new feature.
       more on main.
