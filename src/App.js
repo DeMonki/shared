@@ -10,6 +10,8 @@ function App() {
       this is the main branch
       this is not an app
       this is not an app
+      this git-check branch.
+      this git-check branch.
       <Home />
       <Meals />
     </div>
