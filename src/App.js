@@ -17,7 +17,7 @@ adding to problem
       this is not an app
       this git-check branch.
       new feature.
-      more on main.
+      one change.
       this git-check branch.
       <Home />
       <Meals />
