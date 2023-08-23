@@ -18,6 +18,7 @@ adding to problem
       this git-check branch.
       new feature.
       one change.
+      second change.
       this git-check branch.
       <Home />
       <Meals />
