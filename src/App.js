@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Elements />
-      this is your app again
+      this is the main branch
       <Home />
       <Meals />
     </div>
