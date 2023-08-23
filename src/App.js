@@ -12,6 +12,7 @@ function App() {
       this git-check branch.
 this is how to make a problem
 adding to problem
+      this is the main branch
       <Home />
       <Meals />
     </div>
